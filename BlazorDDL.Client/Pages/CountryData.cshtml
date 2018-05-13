@@ -1,4 +1,4 @@
-﻿@using BlazorDDL.Shared.Models
+@using BlazorDDL.Shared.Models
 @page "/country"
 @inject HttpClient Http
 
@@ -23,7 +23,7 @@ else
     </div>
     <div class="row" style="padding-top:10px">
         <div class="col-md-4">
-            <select class="form-control" onchange="@ButtonClicked">
+            <select class="form-control" onchange="@CountryClicked">
                 <option value="">-- Select Country --</option>
                 @foreach (var country in countryList)
                 {
@@ -32,7 +32,7 @@ else
             </select>
         </div>
         <div class="col-md-4">
-            <select class="form-control" bind="@temp" onchange="@CityClicked">
+            <select class="form-control" onchange="@CityClicked">
                 <option value="">-- Select City --</option>
                 @if (cityList != null)
                 {
@@ -64,14 +64,12 @@ string countryId { get; set; }
 string countryName { get; set; }
 string cityName { get; set; }
 
-string temp;
-
 protected override async Task OnInitAsync()
 {
     countryList = await Http.GetJsonAsync<List<Country>>("api/Countries/GetCountryList");
 }
 
-protected async void ButtonClicked(UIChangeEventArgs countryEvent)
+protected async void CountryClicked(UIChangeEventArgs countryEvent)
 {
     cityList.Clear();
     cityName = string.Empty;
