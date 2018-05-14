@@ -12,20 +12,20 @@ namespace BlazorDDL.Server.Controllers
 {
     public class CountriesController : Controller
     { 
-        DataAccessClass objemployee = new DataAccessClass();
+        DataAccessClass objCountry = new DataAccessClass();
 
         [HttpGet]
         [Route("api/Countries/GetCountryList")]
         public IEnumerable<Country> GetCountryList()
         {
-            return objemployee.GetAllCountries();
+            return objCountry.GetAllCountries();
         }
 
         [HttpGet]
         [Route("api/Countries/GetCities/{id}")]
         public IEnumerable<Cities> GetCities(string id)
         {
-            return objemployee.GetCityData(id);
+            return objCountry.GetCityData(id);
         }
     }
 }
