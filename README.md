@@ -3,6 +3,10 @@ In this article, we are going to create a cascading dropdown list in Blazor usin
 
 We will be using Visual Studio 2017 and SQL Server 2014.
 
+Let’s take a look at the final product.
+
+![Alt Text](https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2018/05/Record_DDL.gif)
+
 # Read the full article
 
 http://ankitsharmablogs.com/cascading-dropdownlist-in-blazor-using-ef-core/
