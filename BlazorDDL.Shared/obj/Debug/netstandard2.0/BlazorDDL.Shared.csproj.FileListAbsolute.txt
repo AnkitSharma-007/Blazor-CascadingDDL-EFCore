@@ -1,9 +1,0 @@
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\bin\Debug\netstandard2.0\BlazorDDL.Shared.deps.json
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\bin\Debug\netstandard2.0\BlazorDDL.Shared.dll
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\obj\Debug\netstandard2.0\BlazorDDL.Shared.csprojAssemblyReference.cache
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\obj\Debug\netstandard2.0\BlazorDDL.Shared.csproj.CoreCompileInputs.cache
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\obj\Debug\netstandard2.0\BlazorDDL.Shared.AssemblyInfoInputs.cache
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\obj\Debug\netstandard2.0\BlazorDDL.Shared.AssemblyInfo.cs
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\bin\Debug\netstandard2.0\BlazorDDL.Shared.pdb
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\obj\Debug\netstandard2.0\BlazorDDL.Shared.dll
-C:\Users\ankit\source\repos\BlazorDDL\BlazorDDL.Shared\obj\Debug\netstandard2.0\BlazorDDL.Shared.pdb

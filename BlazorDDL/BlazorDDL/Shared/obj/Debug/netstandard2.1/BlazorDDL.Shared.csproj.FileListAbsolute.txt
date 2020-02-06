@@ -1,0 +1,8 @@
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\bin\Debug\netstandard2.1\BlazorDDL.Shared.deps.json
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\bin\Debug\netstandard2.1\BlazorDDL.Shared.dll
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\bin\Debug\netstandard2.1\BlazorDDL.Shared.pdb
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\obj\Debug\netstandard2.1\BlazorDDL.Shared.csprojAssemblyReference.cache
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\obj\Debug\netstandard2.1\BlazorDDL.Shared.AssemblyInfoInputs.cache
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\obj\Debug\netstandard2.1\BlazorDDL.Shared.AssemblyInfo.cs
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\obj\Debug\netstandard2.1\BlazorDDL.Shared.dll
+E:\Projects\BlazorUpdates\Blazor-CascadingDDL-EFCore\BlazorDDL\BlazorDDL\Shared\obj\Debug\netstandard2.1\BlazorDDL.Shared.pdb
